@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NovaStream Music",
+  "description": "A high-end, AI-powered music streaming application inspired by YouTube Music and Spotify, featuring intelligent recommendations, playlist management, and seamless YouTube playback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
